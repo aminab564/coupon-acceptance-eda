@@ -23,7 +23,7 @@ This project investigates behavioral and contextual traits that influence driver
 |----------|------------------|
 | Partner passenger at 2PM | **80.0%** |
 | Frequent Restaurant(20–50) diner + 1-day expiration | **74.7%** |
-| Management occupation + income > $50K | **69.2%** |
+| Management occupation + income > $100K | **69.2%** |
 | General population baseline | ~**43%** |
 
 These segments suggest that **social planning, income level, and redemption flexibility** play substantial roles in coupon engagement.
